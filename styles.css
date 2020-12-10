@@ -1,0 +1,20 @@
+.pagetemplate{
+    padding: 10%;
+}
+.session1{
+    display: flex;
+}
+.hello{
+    font-weight: 500;
+    font-size: 22px;
+    font-family: system-ui;
+    width: 50%;
+}
+img{
+width: 50%;
+height: auto;
+float: right;
+}
+body{
+    background-color: #fccbcb;
+}
